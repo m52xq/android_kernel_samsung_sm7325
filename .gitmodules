@@ -1,0 +1,6 @@
+[submodule "lindroid-drm-loopback"]
+	path = lindroid-drm-loopback
+	url = https://github.com/Linux-on-droid/lindroid-drm-loopback
+[submodule "drivers/lindroid-drm"]
+	path = drivers/lindroid-drm
+	url = https://github.com/Linux-on-droid/lindroid-drm-loopback
